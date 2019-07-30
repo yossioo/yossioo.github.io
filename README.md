@@ -2,5 +2,5 @@
 
 Welcome!
 
-## ROS-Hacks
-ROS-Hacks repository v0.9 has been published. Checkout: [ROS-Hacks](https://github.com/yossioo/ROS-Hacks).
+# ROS-Hacks
+[ROS-Hacks repository](https://github.com/yossioo/ROS-Hacks)  v0.9 has been published. 
