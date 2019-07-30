@@ -1,5 +1,3 @@
-# Yossik O GitHub Pages
-
 Welcome!
 
 # ROS-Hacks
